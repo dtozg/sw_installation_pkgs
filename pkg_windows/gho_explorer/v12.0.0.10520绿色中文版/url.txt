@@ -1,2 +1,9 @@
 Gho文件浏览工具(Symantec Ghost Explorer) 12.0.0.10520 绿色中文版
 downloaded from https://www.cr173.com/soft/9420.html
+
+内含五个版本
+- Ghost32.exe 1.60M 32位系统下使用Ghost的主程序，只支持3.25G的内存
+- Ghost64.exe 2.24M 64位系统下使用Ghost的主程序，支持128G的内存
+- Ghost32+64 3.58M 32位/64位二合一，自动适应系统。
+- Ghostexp.exe （已汉化） 1.12M Ghost 浏览器 32位系统下查找和修改备份文件的工具
+- Ghostexp64.exe （已汉化） 1.56M Ghost 浏览器 64位系统下查找和修改备份文件的工具，支持128G的内存
